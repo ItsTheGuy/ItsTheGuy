@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">ItsTheGuy</h1>
+# ItsTheGuy
 
 ```swift
 // me.swift
